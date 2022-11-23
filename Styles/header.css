@@ -13,8 +13,14 @@ header {
 .binancelogo-header {
   display: flex;
   
+  
   height: 24px;
   margin-left: 15px;
+}
+
+
+.binancelogo-headerimg{
+  width:15px;
 }
 
 /* .material-symbols-outlined {
