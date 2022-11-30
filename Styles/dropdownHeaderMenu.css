@@ -58,6 +58,11 @@ img {
   .DropDown-Menu-headder {
     width: 375px;
   }
+  
+  
+  .a-dropdown-menu-register {
+    padding-right: 125px;
+  }
 }
 
 /* Media query dropdown width at 375px End */
