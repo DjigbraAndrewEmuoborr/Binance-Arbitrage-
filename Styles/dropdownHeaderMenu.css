@@ -197,6 +197,28 @@ img {
   margin-bottom: 20px;
   display: block;
 }
+
+.container-gift-register-img {
+  position: absolute;
+  width: 16px;
+  left: 113px;
+  top: 18px;
+}
+
+/* MQ 375 gifts register img */
+
+@media screen and (min-width: 375px) {
+  .container-gift-register-img {
+    left: 140px;
+    top: 18px;
+  }
+}
+
+/* MQ 375 gifts register imgEnd */
+
+
+
+
 a {
   text-decoration: none;
   color: black;
